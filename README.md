@@ -1,2 +1,2 @@
 # Neural_Network_FromScratch
-I programed a Neural Network 
+This is a Visual Basic project of mine of a Neural Network with backpropagation
